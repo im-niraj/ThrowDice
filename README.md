@@ -19,4 +19,4 @@ I have taken three member to roll the dice
 
 
 ## Screenshots
-![alt text](/Users/nirajkumar/Desktop/Screenshot 2022-04-06 at 9.56.59 PM (2).png)
+![alt text]('/Users/nirajkumar/Desktop/Screenshot.png')
