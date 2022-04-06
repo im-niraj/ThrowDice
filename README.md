@@ -17,6 +17,3 @@ I have taken three member to roll the dice
 
 - [@Niraj Kumar](https://www.linkedin.com/in/imniraj/)
 
-
-## Screenshots
-![alt text]('/Users/nirajkumar/Desktop/Screenshot.png')
