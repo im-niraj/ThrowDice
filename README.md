@@ -17,3 +17,5 @@ I have taken three member to roll the dice
 
 - [@Niraj Kumar](https://www.linkedin.com/in/imniraj/)
 
+### Url of this page
+- [Visite to the page](https://im-niraj.github.io/ThrowDice/)
