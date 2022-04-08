@@ -1,0 +1,47 @@
+ .container{
+    text-align: center;
+}
+#winner{
+    font-size: 40px;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.dice{
+    display: flex;
+    justify-content: center;
+}
+.dice > div > p{
+    font-size: 20px;
+    font-weight: 600;
+    color: blueviolet;
+    margin: 0;
+    padding: 0;
+}
+#member-1,
+#member-2,
+#member-3{
+    height: 140px;
+    width: 140px;
+    background-color: rgb(248, 245, 245);
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 8px;
+    border-radius: 24px;
+    margin: 50px 50px 20px 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 65px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+#roll{
+    background-color: rgba(35, 20, 255, 0.804);
+    border: 0;
+    margin-top: 45px;
+    border-radius: 30px;
+    padding: 15px 25px;
+    font-size: 22px;
+    color: #fff;
+    font-weight: 600;
+    cursor: pointer;
+}
